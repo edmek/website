@@ -1,0 +1,19 @@
+title: Edmek
+description: Systemy Elektroniki Przemysłowej dla Rolnictwa
+email: info (at) edmek.pl
+phone: +48 508 380 661
+address_line_1: ul. Mehoffera 66D/17
+address_line_2: 03-131 Warszawa
+url: "https://edmek.pl"
+baseurl: "/website"
+google_site_verification:
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-minifier
+header_pages:
+  - about.md
+  - portfolio.md
+  - projects.md
