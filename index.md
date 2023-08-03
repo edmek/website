@@ -5,25 +5,24 @@ description: Nowoczesne sterowniki do instalacji udojowych.
 locale: pl_PL
 menu_include: true
 ---
-Oferujemy nowoczesne sterowniki do instalacji udojowych. 
-Wyroby nasze powstały w wyniku wieloletniej współpracy z montażystami i serwisantami instalacji udojowych.
+Od 2002 roku dostarczamy sterowniki do instalacji udojowych.
+Istotą naszej działalności jest ciągły rozwój oferty w kontekście wsparcia montażystów i serwisantów w celu poprawy jakości procesu mycia.
 
-Sterowniki można zastosować w dowolnym typie myjni (Alfa Laval, DeLaval, Westfalia).
+W wyniku wieloletniej współpracy z montażystami i serwisantami instalacji udojowych, powstały sterowniki które można zastosować w dowolnym typie myjni:
+- __Alfa Laval__
+- __DeLaval__
+- __Westfalia__
 
-Oferujemy sprawdzone wyroby oraz doradztwo w zakresie instalacji i modernizacji systemów udojowych.
-Istotą naszej działalności jest ciągły rozwój oferty w kontekście wsparcia montażystów i serwisantów w celu obniżenia kosztów utrzymania instalacji udojowych oraz poprawy jakości procesu mycia.
+Sterownik MBR03P steruje pracą automatu myjącego dojarki udojowej w dojarkach rurociągowych i halach udojowych.
 
-W celu zwiększenia funkcjonalności naszych sterowników MBR-03P myjni dojarki przewodowej opracowaliśmy zmodernizowaną wersje sterownika MBR-03P8 posiadającą dodatkowe możliwości regulacyjne.
+40 programowanych parametrów pozwala na instalację sterownika we wszystkich typach automatów myjących również robotach udojowych.
 
-Sterownik kontroluje pracę ośmiu urządzeń:
-- pompy próżniowej - jak w MBR-03P
-- pompy mlecznej - jak w MBR-03P
-- zaworu wody ciepłej - jak w MBR-03P
-- zaworu wody zimnej - jak w MBR-03P
-- zaworu spustowego - jak w MBR-03P
-- zaworu chemii wody ciepłej - regulacja czasu pobierania chemii pierwszej
-- zaworu chemii wody zimnej - regulacja czasu pobierania chemii drugiej
-- wyjście dogrzewania - sterowanie dogrzewania niezależnie od typu zastosowanego zaworu spustowego
+Najnowszą wprowadzoną funkcjonalnością jest monitoring pracy. Podczas mycia monitorowane są:
+ - całkowity czas mycia
+ - maksymalna temperatura podczas mycia
+ - czas mycia gorącą wodą.
+ - 
+Dodatkowo zwiększono odporność sterownika na szkodliwe oddziaływanie instalacji fotowoltaicznych oraz częste zaniki napięcia sieci.
 
-Dodatkowo sterownik wygasza wyświetlacz po pracy jeśli nie został wyłączony. 
-Podczas wygaszenie wyświetlacza sterownik wykonuje wszystkie swoje funkcje. 
+Od wersji 215 sterownik MBR03P zawiera w sobie program myjni dojarki i program myjni zbiornika co upraszcza to pracę serwisantów. 
+
